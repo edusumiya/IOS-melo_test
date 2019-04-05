@@ -15,8 +15,4 @@ class Environment {
     
     static let sitePath: String = "sites/"
     static let searchPath: String = "search?q="
-    
-    static func getSearchQuery(siteId: String, query: String) -> String {
-        return sitePath + siteId + "/" + searchPath + query
-    }
 }
