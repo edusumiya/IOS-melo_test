@@ -10,8 +10,10 @@
 		9E73624C4575287010103E78 /* Pods_Melo_TestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8088BC4A3D8A201FE4CA39F8 /* Pods_Melo_TestTests.framework */; };
 		A03E33722256C3A500CBCA41 /* ProductService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E33712256C3A500CBCA41 /* ProductService.swift */; };
 		A03E33742256FD7600CBCA41 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E33732256FD7600CBCA41 /* Product.swift */; };
+		A03E3378225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E3377225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift */; };
+		A03E337C225709CB00CBCA41 /* ProductListProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E337B225709CB00CBCA41 /* ProductListProtocol.swift */; };
 		A0C55FF22256344D007E3E1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C55FF12256344D007E3E1E /* AppDelegate.swift */; };
-		A0C55FF42256344D007E3E1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C55FF32256344D007E3E1E /* ViewController.swift */; };
+		A0C55FF42256344D007E3E1E /* ProductListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C55FF32256344D007E3E1E /* ProductListViewController.swift */; };
 		A0C55FF72256344D007E3E1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FF52256344D007E3E1E /* Main.storyboard */; };
 		A0C55FF92256344E007E3E1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FF82256344E007E3E1E /* Assets.xcassets */; };
 		A0C55FFC2256344E007E3E1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FFA2256344E007E3E1E /* LaunchScreen.storyboard */; };
@@ -39,9 +41,11 @@
 		9FFFA46B775A02EC46E93A12 /* Pods_Melo_Test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Melo_Test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A03E33712256C3A500CBCA41 /* ProductService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductService.swift; sourceTree = "<group>"; };
 		A03E33732256FD7600CBCA41 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		A03E3377225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsListDatasourceAndDelegates.swift; sourceTree = "<group>"; };
+		A03E337B225709CB00CBCA41 /* ProductListProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListProtocol.swift; sourceTree = "<group>"; };
 		A0C55FEE2256344D007E3E1E /* Melo Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Melo Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C55FF12256344D007E3E1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A0C55FF32256344D007E3E1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A0C55FF32256344D007E3E1E /* ProductListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListViewController.swift; sourceTree = "<group>"; };
 		A0C55FF62256344D007E3E1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A0C55FF82256344E007E3E1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0C55FFB2256344E007E3E1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -85,6 +89,38 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		A03E3375225706ED00CBCA41 /* DatasourceAndDelegates */ = {
+			isa = PBXGroup;
+			children = (
+				A03E3377225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift */,
+			);
+			path = DatasourceAndDelegates;
+			sourceTree = "<group>";
+		};
+		A03E3376225707F100CBCA41 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A03E3379225709A100CBCA41 /* Commons */ = {
+			isa = PBXGroup;
+			children = (
+				A03E337A225709AE00CBCA41 /* Protocols */,
+				A03E3375225706ED00CBCA41 /* DatasourceAndDelegates */,
+			);
+			path = Commons;
+			sourceTree = "<group>";
+		};
+		A03E337A225709AE00CBCA41 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				A03E337B225709CB00CBCA41 /* ProductListProtocol.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
 		A0C55FE52256344D007E3E1E = {
 			isa = PBXGroup;
 			children = (
@@ -108,6 +144,7 @@
 		A0C55FF02256344D007E3E1E /* Melo Test */ = {
 			isa = PBXGroup;
 			children = (
+				A03E3379225709A100CBCA41 /* Commons */,
 				A0C56015225637F6007E3E1E /* Constants */,
 				A0C56013225637D8007E3E1E /* Model */,
 				A0C56014225637F0007E3E1E /* Service */,
@@ -130,7 +167,7 @@
 		A0C56011225637CB007E3E1E /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				A0C55FF32256344D007E3E1E /* ViewController.swift */,
+				A0C55FF32256344D007E3E1E /* ProductListViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -138,6 +175,7 @@
 		A0C56012225637D3007E3E1E /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				A03E3376225707F100CBCA41 /* View */,
 				A0C5601922563AAE007E3E1E /* Storyboards */,
 			);
 			path = UI;
@@ -369,11 +407,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0C55FF42256344D007E3E1E /* ViewController.swift in Sources */,
+				A0C55FF42256344D007E3E1E /* ProductListViewController.swift in Sources */,
 				A0C560182256383E007E3E1E /* Environment.swift in Sources */,
 				A0C5601B22563B21007E3E1E /* ProductsList.swift in Sources */,
+				A03E337C225709CB00CBCA41 /* ProductListProtocol.swift in Sources */,
 				A0C55FF22256344D007E3E1E /* AppDelegate.swift in Sources */,
 				A03E33722256C3A500CBCA41 /* ProductService.swift in Sources */,
+				A03E3378225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift in Sources */,
 				A03E33742256FD7600CBCA41 /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
