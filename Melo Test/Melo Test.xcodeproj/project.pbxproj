@@ -20,9 +20,10 @@
 		A0C560072256344E007E3E1E /* Melo_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C560062256344E007E3E1E /* Melo_TestTests.swift */; };
 		A0C560182256383E007E3E1E /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C560172256383E007E3E1E /* Environment.swift */; };
 		A0C5601B22563B21007E3E1E /* ProductsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C5601A22563B21007E3E1E /* ProductsList.swift */; };
-		A0F838F72259405E00F776E6 /* productTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F838F62259405E00F776E6 /* productTableViewCell.xib */; };
+		A0F838F72259405E00F776E6 /* ProductTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F838F62259405E00F776E6 /* ProductTableViewCell.xib */; };
 		A0F838F9225940BD00F776E6 /* ProductSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F838F8225940BD00F776E6 /* ProductSearchViewController.swift */; };
 		A0F838FC225947A600F776E6 /* StoryboardUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F838FB225947A600F776E6 /* StoryboardUtils.swift */; };
+		A0F838FF22594C8E00F776E6 /* ProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F838FE22594C8E00F776E6 /* ProductTableViewCell.swift */; };
 		B6C7BE05DF888D3F7A9AE15E /* Pods_Melo_Test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FFFA46B775A02EC46E93A12 /* Pods_Melo_Test.framework */; };
 /* End PBXBuildFile section */
 
@@ -58,9 +59,10 @@
 		A0C560082256344E007E3E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0C560172256383E007E3E1E /* Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
 		A0C5601A22563B21007E3E1E /* ProductsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsList.swift; sourceTree = "<group>"; };
-		A0F838F62259405E00F776E6 /* productTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = productTableViewCell.xib; sourceTree = "<group>"; };
+		A0F838F62259405E00F776E6 /* ProductTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductTableViewCell.xib; sourceTree = "<group>"; };
 		A0F838F8225940BD00F776E6 /* ProductSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductSearchViewController.swift; sourceTree = "<group>"; };
 		A0F838FB225947A600F776E6 /* StoryboardUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryboardUtils.swift; sourceTree = "<group>"; };
+		A0F838FE22594C8E00F776E6 /* ProductTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductTableViewCell.swift; sourceTree = "<group>"; };
 		BFA9B3AD363A7E5B4F3C964A /* Pods-Melo Test.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Melo Test.debug.xcconfig"; path = "Target Support Files/Pods-Melo Test/Pods-Melo Test.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,7 +108,7 @@
 		A03E3376225707F100CBCA41 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				A0F838F62259405E00F776E6 /* productTableViewCell.xib */,
+				A0F838F62259405E00F776E6 /* ProductTableViewCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -151,13 +153,14 @@
 		A0C55FF02256344D007E3E1E /* Melo Test */ = {
 			isa = PBXGroup;
 			children = (
-				A0F838FA2259479400F776E6 /* Utils */,
 				A03E3379225709A100CBCA41 /* Commons */,
 				A0C56015225637F6007E3E1E /* Constants */,
 				A0C56013225637D8007E3E1E /* Model */,
 				A0C56014225637F0007E3E1E /* Service */,
 				A0C5601622563816007E3E1E /* Supporting Files */,
 				A0C56012225637D3007E3E1E /* UI */,
+				A0F838FA2259479400F776E6 /* Utils */,
+				A0F838FD22594C1400F776E6 /* View */,
 				A0C56011225637CB007E3E1E /* ViewController */,
 			);
 			path = "Melo Test";
@@ -240,6 +243,14 @@
 				A0F838FB225947A600F776E6 /* StoryboardUtils.swift */,
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		A0F838FD22594C1400F776E6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A0F838FE22594C8E00F776E6 /* ProductTableViewCell.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 		A292469F28CA732535B603A6 /* Frameworks */ = {
@@ -336,7 +347,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0C55FFC2256344E007E3E1E /* LaunchScreen.storyboard in Resources */,
-				A0F838F72259405E00F776E6 /* productTableViewCell.xib in Resources */,
+				A0F838F72259405E00F776E6 /* ProductTableViewCell.xib in Resources */,
 				A0C55FF92256344E007E3E1E /* Assets.xcassets in Resources */,
 				A0C55FF72256344D007E3E1E /* Main.storyboard in Resources */,
 			);
@@ -406,12 +417,14 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Melo Test/Pods-Melo Test-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/ImageLoader/ImageLoader.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ImageLoader.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -434,6 +447,7 @@
 				A0F838FC225947A600F776E6 /* StoryboardUtils.swift in Sources */,
 				A03E33722256C3A500CBCA41 /* ProductService.swift in Sources */,
 				A03E3378225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift in Sources */,
+				A0F838FF22594C8E00F776E6 /* ProductTableViewCell.swift in Sources */,
 				A03E33742256FD7600CBCA41 /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

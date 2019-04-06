@@ -40,10 +40,7 @@ class ProductSearchViewController: UIViewController, UISearchBarDelegate {
     
     // MARK: - Actions
     @IBAction func searchClicked(_ sender: Any) {
-        let productListVC = StoryboardUtils.getProductListVC()
-        
-        productListVC.searchKeyword = searchViewProducts.text
-        
+        let productListVC = StoryboardUtils.getProductListVC(searchKeyword: searchViewProducts.text)
         self.navigationController?.pushViewController(productListVC, animated: true)
     }
     

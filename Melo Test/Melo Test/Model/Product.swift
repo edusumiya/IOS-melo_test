@@ -153,16 +153,13 @@ struct SellerAddress: Codable {
     let comment, addressLine, zipCode: String?
     let city, state, country: City?
     let searchLocation: SearchLocation?
-//    let latitude, longitude: Double?
-//    let id: Int?
-    
+
     enum CodingKeys: String, CodingKey {
         case comment
         case addressLine = "address_line"
         case zipCode = "zip_code"
         case city, state, country
         case searchLocation = "search_location"
-//        case latitude, longitude, id
     }
 }
 

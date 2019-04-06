@@ -1,16 +1,20 @@
 PODS:
   - Alamofire (4.8.1)
+  - ImageLoader (0.14.0)
 
 DEPENDENCIES:
   - Alamofire
+  - ImageLoader
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
+    - ImageLoader
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  ImageLoader: 56f57e35d6ed26a74183dc2e472133b4b22eb7b9
 
-PODFILE CHECKSUM: 7f162dddc4af42e0f08596741a4f228c850484d5
+PODFILE CHECKSUM: 390967dffaf0329fa4dd2e4f2523320807aeea58
 
 COCOAPODS: 1.6.0

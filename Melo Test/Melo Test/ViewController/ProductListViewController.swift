@@ -13,6 +13,7 @@ class ProductListViewController: UIViewController {
     @IBOutlet var tableViewProducts: UITableView!
     
     var searchKeyword: String?
+    fileprivate var productsDatasource: ProductsListDatasourceAndDelegates!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,10 +30,9 @@ class ProductListViewController: UIViewController {
         if let searchText = searchKeyword {
             ProductService.fetchProducts(searchText: searchText, success: { (searchResults) in
                 if let products = searchResults.results {
-                    let productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
-                    self.tableViewProducts.dataSource = productsDatasource
-                    self.tableViewProducts.delegate = productsDatasource
-                    self.tableViewProducts.reloadData()
+                    self.productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
+                    
+                    self.productsDatasource.configureTable()
                 }
             }) { (error) in
                 print(error)

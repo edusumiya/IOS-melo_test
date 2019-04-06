@@ -53,6 +53,11 @@ class ProductService: NSObject {
     }
     
     
+    static func getData(from url: URL, completion: @escaping (Data?, URLResponse?, Error?) -> ()) {
+        URLSession.shared.dataTask(with: url, completionHandler: completion).resume()
+    }
+    
+    
     // MARK: - Url Creation Methods
     fileprivate static func getSearchQuery(siteId: String, query: String) -> String {
         return Environment.HOST + Environment.sitePath + siteId + "/" + Environment.searchPath + query

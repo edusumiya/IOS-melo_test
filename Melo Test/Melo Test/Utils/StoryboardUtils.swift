@@ -12,11 +12,12 @@ import UIKit
 class StoryboardUtils: NSObject {
     static let storyboard = UIStoryboard(name: "Main", bundle: nil)
     
-    static func getProductListVC() -> ProductListViewController {
-        guard let productSearchVC = storyboard.instantiateViewController(withIdentifier: "ProductList") as? ProductListViewController else {
+    static func getProductListVC(searchKeyword: String?) -> ProductListViewController {
+        guard let productListVC = storyboard.instantiateViewController(withIdentifier: "ProductList") as? ProductListViewController else {
             return ProductListViewController()
         }
         
-        return productSearchVC
+        productListVC.searchKeyword = searchKeyword
+        return productListVC
     }
 }

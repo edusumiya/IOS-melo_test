@@ -7,6 +7,7 @@ target 'Melo Test' do
 
   # Pods for Melo Test
   pod 'Alamofire'
+  pod 'ImageLoader'
   
   target 'Melo TestTests' do
     inherit! :search_paths

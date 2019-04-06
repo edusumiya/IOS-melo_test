@@ -22,13 +22,27 @@ class ProductsListDatasourceAndDelegates: NSObject, UITableViewDataSource, UITab
         self.productResults = productResults
     }
     
+    func configureTable() {
+        self.tableViewProducts.dataSource = self
+        self.tableViewProducts.delegate = self
+        self.tableViewProducts.reloadData()
+        
+        self.tableViewProducts.register(UINib(nibName: "ProductTableViewCell", bundle: nil), forCellReuseIdentifier: "ProductCell")
+    }
+    
     // MARK: - UITableViewDatasource
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return productResults.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        return UITableViewCell()
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "ProductCell") as? ProductTableViewCell else {
+            return UITableViewCell()
+        }
+        
+        cell.configureData(productItem: productResults[indexPath.row])
+        
+        return cell
     }
     
     
@@ -37,5 +51,9 @@ class ProductsListDatasourceAndDelegates: NSObject, UITableViewDataSource, UITab
         tableView.deselectRow(at: indexPath, animated: true)
         
         delegate?.openProductDetail(product: productResults[indexPath.row])
+    }
+    
+    func tableView(_ tableView: UITableView, estimatedHeightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 160
     }
 }
