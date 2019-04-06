@@ -9,8 +9,10 @@
 import UIKit
 
 class ProductListViewController: UIViewController {
-
+    
     @IBOutlet var tableViewProducts: UITableView!
+    
+    var searchKeyword: String?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -24,15 +26,17 @@ class ProductListViewController: UIViewController {
     }
     
     fileprivate func configureData() {
-        ProductService.fetchProducts(searchText: "chromecast", success: { (searchResults) in
-            if let products = searchResults.results {
-                let productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
-                self.tableViewProducts.dataSource = productsDatasource
-                self.tableViewProducts.delegate = productsDatasource
-                self.tableViewProducts.reloadData()
+        if let searchText = searchKeyword {
+            ProductService.fetchProducts(searchText: searchText, success: { (searchResults) in
+                if let products = searchResults.results {
+                    let productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
+                    self.tableViewProducts.dataSource = productsDatasource
+                    self.tableViewProducts.delegate = productsDatasource
+                    self.tableViewProducts.reloadData()
+                }
+            }) { (error) in
+                print(error)
             }
-        }) { (error) in
-            print(error)
         }
     }
 }
