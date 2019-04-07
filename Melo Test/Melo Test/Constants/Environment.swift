@@ -15,4 +15,5 @@ class Environment {
     
     static let sitePath: String = "sites/"
     static let searchPath: String = "search?q="
+    static let offsetPath: String = "&offset="
 }

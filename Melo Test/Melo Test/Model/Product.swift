@@ -15,7 +15,7 @@ struct Product: Codable {
     let categoryID: String?
     let officialStoreID: Int?
     let price, basePrice: Double?
-    let originalPrice: JSONNull?
+    let originalPrice: Double?
     let currencyID: String?
     let initialQuantity, availableQuantity, soldQuantity: Int?
     let saleTerms: [JSONAny]?
@@ -36,7 +36,6 @@ struct Product: Codable {
     let location: Location?
     let geolocation: Geolocation?
     let coverageAreas: [JSONAny]?
-    let attributes: [Attribute]?
     let warnings: [JSONAny]?
     let listingSource: String?
     let variations: [Variation]?
@@ -82,7 +81,7 @@ struct Product: Codable {
         case sellerContact = "seller_contact"
         case location, geolocation
         case coverageAreas = "coverage_areas"
-        case attributes, warnings
+        case warnings
         case listingSource = "listing_source"
         case variations, status
         case subStatus = "sub_status"
@@ -96,31 +95,6 @@ struct Product: Codable {
         case lastUpdated = "last_updated"
         case health
     }
-}
-
-struct Attribute: Codable {
-    let id, name: String?
-    let valueID, valueName: String?
-    let valueStruct: JSONNull?
-    let attributeGroupID: AttributeGroupID?
-    let attributeGroupName: AttributeGroupName?
-    
-    enum CodingKeys: String, CodingKey {
-        case id, name
-        case valueID = "value_id"
-        case valueName = "value_name"
-        case valueStruct = "value_struct"
-        case attributeGroupID = "attribute_group_id"
-        case attributeGroupName = "attribute_group_name"
-    }
-}
-
-enum AttributeGroupID: String, Codable {
-    case others = "OTHERS"
-}
-
-enum AttributeGroupName: String, Codable {
-    case outros = "Outros"
 }
 
 struct Description: Codable {

@@ -16,8 +16,8 @@ class ProductService: NSObject {
     typealias Failure = (_ error: Error) -> Void
     
     // MARK: - Service Methods
-    static func fetchProducts(searchText: String, success: @escaping SuccessProducts, failure: @escaping Failure) {
-        let url = getSearchQuery(siteId: "MLB", query: searchText)
+    static func fetchProducts(searchText: String, offset: Int, success: @escaping SuccessProducts, failure: @escaping Failure) {
+        let url = getSearchQuery(siteId: "MLB", query: searchText, offset: offset)
         
         Alamofire.request(url, method: .get, parameters: nil).responseJSON { response in
             if response.result.isSuccess {
@@ -52,15 +52,9 @@ class ProductService: NSObject {
         }
     }
     
-    
-    static func getData(from url: URL, completion: @escaping (Data?, URLResponse?, Error?) -> ()) {
-        URLSession.shared.dataTask(with: url, completionHandler: completion).resume()
-    }
-    
-    
     // MARK: - Url Creation Methods
-    fileprivate static func getSearchQuery(siteId: String, query: String) -> String {
-        return Environment.HOST + Environment.sitePath + siteId + "/" + Environment.searchPath + query
+    fileprivate static func getSearchQuery(siteId: String, query: String, offset: Int) -> String {
+        return Environment.HOST + Environment.sitePath + siteId + "/" + Environment.searchPath + query + Environment.offsetPath + "\(offset)"
     }
     
     fileprivate static func getProductDetailQuery(productId: String) -> String {
