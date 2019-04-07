@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+ platform :ios, '8.0'
 
 target 'Melo Test' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
@@ -8,10 +8,21 @@ target 'Melo Test' do
   # Pods for Melo Test
   pod 'Alamofire'
   pod 'ImageLoader'
+  pod 'iCarousel', '~> 1.8'
+  pod 'HUD'
   
   target 'Melo TestTests' do
     inherit! :search_paths
     # Pods for testing
+  end
+  
+  # if use Xcode9(Swift4.0)
+  post_install do |installer|
+    installer.pods_project.targets.each do |target|
+      target.build_configurations.each do |config|
+        config.build_settings['SWIFT_VERSION'] = '3.2'
+      end
+    end
   end
 
 end

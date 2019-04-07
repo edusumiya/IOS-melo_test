@@ -11,16 +11,21 @@ import UIKit
 import ImageLoader
 
 class ProductTableViewCell: UITableViewCell {
-    
+    // MARK: - Properties
     @IBOutlet var productTitle: UILabel!
     @IBOutlet var productImage: UIImageView!
-    
     @IBOutlet var productLocation: UILabel!
     @IBOutlet var productPrice: UILabel!
+    
+    // MARK: - Constants
+    static let cellIdentifier = "ProductCell"
+    
+    // MARK: - Lifecycle
     override func awakeFromNib() {
         super .awakeFromNib()
     }
     
+    // MARK: - Methods
     func configureData(productItem: Product) {
         productTitle.text = productItem.title
         
@@ -28,7 +33,10 @@ class ProductTableViewCell: UITableViewCell {
             productImage.load.request(with: urlThumb)
         }
         
-        productPrice.text = "R$ \(String(format: "%.2f", productItem.price ?? "0"))"
-        productLocation.text = "\(productItem.soldQuantity ?? 0) vendidos - \(productItem.sellerAddress?.state?.name ?? "")"
+        let formatter = NumberFormatter()
+        formatter.numberStyle = .currency
+        formatter.locale = Locale(identifier: "pt_BR")
+        productPrice.text = formatter.string(from: NSNumber(value: productItem.price ?? 0))
+        productLocation.text = "\(productItem.soldQuantity ?? 0) vendidos \n\(productItem.sellerAddress?.state?.name ?? "")"
     }
 }

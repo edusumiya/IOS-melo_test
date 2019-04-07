@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class ProductSearchViewController: UIViewController, UISearchBarDelegate {
+class ProductSearchViewController: BaseViewController, UISearchBarDelegate {
     @IBOutlet var searchViewProducts: UISearchBar!
     @IBOutlet var searchButton: UIButton!
     
@@ -21,6 +21,14 @@ class ProductSearchViewController: UIViewController, UISearchBarDelegate {
         configureData()
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        self.navigationController?.isNavigationBarHidden = true
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        self.navigationController?.isNavigationBarHidden = false
+    }
+    
     // MARK: - Methods
     fileprivate func configureUI() {
         let searchTextField: UITextField? = searchViewProducts.value(forKey: "searchField") as? UITextField
@@ -28,6 +36,7 @@ class ProductSearchViewController: UIViewController, UISearchBarDelegate {
         if searchTextField!.responds(to: #selector(getter: UITextField.attributedPlaceholder)) {
             let attributeDict = [NSAttributedString.Key.foregroundColor: UIColor.white]
             searchTextField!.attributedPlaceholder = NSAttributedString(string: "Digite o nome do produto", attributes: attributeDict)
+            searchTextField?.alpha = 0.6
         }
         
         searchButton.isEnabled = false

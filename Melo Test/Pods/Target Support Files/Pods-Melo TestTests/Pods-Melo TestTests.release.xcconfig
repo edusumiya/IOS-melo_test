@@ -1,8 +1,8 @@
-FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire" "${PODS_CONFIGURATION_BUILD_DIR}/ImageLoader"
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire" "${PODS_CONFIGURATION_BUILD_DIR}/HUD" "${PODS_CONFIGURATION_BUILD_DIR}/ImageLoader" "${PODS_CONFIGURATION_BUILD_DIR}/iCarousel"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/ImageLoader/ImageLoader.framework/Headers"
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/HUD/HUD.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/ImageLoader/ImageLoader.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/iCarousel/iCarousel.framework/Headers"
 LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
-OTHER_LDFLAGS = $(inherited) -framework "Alamofire" -framework "ImageLoader"
+OTHER_LDFLAGS = $(inherited) -framework "Alamofire" -framework "HUD" -framework "ImageLoader" -framework "QuartzCore" -framework "iCarousel"
 PODS_BUILD_DIR = ${BUILD_DIR}
 PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
 PODS_PODFILE_DIR_PATH = ${SRCROOT}/.

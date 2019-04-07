@@ -1,20 +1,28 @@
 PODS:
   - Alamofire (4.8.1)
+  - HUD (2.0.1)
+  - iCarousel (1.8.3)
   - ImageLoader (0.14.0)
 
 DEPENDENCIES:
   - Alamofire
+  - HUD
+  - iCarousel (~> 1.8)
   - ImageLoader
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
+    - HUD
+    - iCarousel
     - ImageLoader
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  HUD: 08e61fa44e2573dd88407ade83a526b9e95e7284
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
   ImageLoader: 56f57e35d6ed26a74183dc2e472133b4b22eb7b9
 
-PODFILE CHECKSUM: 390967dffaf0329fa4dd2e4f2523320807aeea58
+PODFILE CHECKSUM: cd70a00abcf4914697b8ffd4de67f9bf19c0dda7
 
 COCOAPODS: 1.6.0

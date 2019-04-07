@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ProductListViewController: UIViewController {
+class ProductListViewController: BaseViewController, ProductListProtocol {
     // MARK: - Properties
     
     @IBOutlet var tableViewProducts: UITableView!
@@ -26,20 +26,35 @@ class ProductListViewController: UIViewController {
         super.viewDidLoad()
         
         configureUI()
-        configureData(dataOffset: 0)
+        dataRequest(dataOffset: 0)
     }
     
     fileprivate func configureUI() {
-        self.navigationItem.title = searchKeyword == nil ? "Produtos" : "Pesquisa por \(searchKeyword ?? "")"
+        self.navigationItem.title = searchKeyword == nil ? "Produtos" : searchKeyword
     }
     
-    fileprivate func configureData(dataOffset: Int) {
+    fileprivate func dataRequest(dataOffset: Int) {
+        showProgressHUD()
         if let searchText = searchKeyword {
             ProductService.fetchProducts(searchText: searchText, offset: dataOffset, success: { (searchResults) in
                 if let products = searchResults.results {
-                    self.productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
-                    self.productsDatasource.delegate = self
-                    self.productsDatasource.configureTable()
+                    if self.productsDatasource == nil {
+                        self.productsDatasource = ProductsListDatasourceAndDelegates(tableViewProducts: self.tableViewProducts, productResults: products)
+                        
+                        self.productsDatasource.delegate = self
+                        self.productsDatasource.configureTable()
+                        
+                        self.tableViewProducts.reloadData()
+                    } else {
+                        self.productsDatasource.productResults = products
+                        
+                        self.tableViewProducts.reloadData()
+                        
+                        let indexPath = IndexPath(row: 0, section: 0)
+                        self.tableViewProducts.scrollToRow(at: indexPath, at: .top, animated: true)
+                    }
+                    
+                    
                     
                     self.pagingLabel.text = "\(self.offset) itens de \(searchResults.paging?.primaryResults ?? 0)"
                     
@@ -61,9 +76,11 @@ class ProductListViewController: UIViewController {
                     }
                     
                     self.limit = searchResults.paging?.limit ?? 0
+                    
+                    self.hideProgressHUD()
                 }
             }) { (error) in
-                print(error)
+                self.displayErrorMessage(message: error.localizedDescription)
             }
         }
     }
@@ -71,22 +88,23 @@ class ProductListViewController: UIViewController {
     // MARK: - Actions
     @IBAction func previousClick(_ sender: Any) {
         offset -= limit
-        configureData(dataOffset: offset)
+        dataRequest(dataOffset: offset)
     }
     
     @IBAction func nextClick(_ sender: Any) {
         offset += limit
-        configureData(dataOffset: offset)
+        dataRequest(dataOffset: offset)
     }
-}
-
-extension ProductListViewController: ProductListProtocol {
+    
+    // MARK: - ProductListProtocol
     func openProductDetail(product: Product) {
+        showProgressHUD()
         ProductService.getProductDetail(productId: product.id ?? "", success: { (product) in
-            print(product)
+            self.hideProgressHUD()
+            let productDetailVC = StoryboardUtils.getProductDetailVC(product: product)
+            self.navigationController?.pushViewController(productDetailVC, animated: true)
         }, failure: { (error) in
-            print(error)
+            self.displayErrorMessage(message: error.localizedDescription)
         })
     }
 }
-

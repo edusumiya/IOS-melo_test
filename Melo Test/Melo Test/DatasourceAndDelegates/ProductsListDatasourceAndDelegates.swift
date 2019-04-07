@@ -22,12 +22,11 @@ class ProductsListDatasourceAndDelegates: NSObject, UITableViewDataSource, UITab
         self.productResults = productResults
     }
     
+    // MARK: - Methods
     func configureTable() {
         self.tableViewProducts.dataSource = self
         self.tableViewProducts.delegate = self
-        self.tableViewProducts.reloadData()
-        
-        self.tableViewProducts.register(UINib(nibName: "ProductTableViewCell", bundle: nil), forCellReuseIdentifier: "ProductCell")
+        self.tableViewProducts.register(UINib(nibName: "ProductTableViewCell", bundle: nil), forCellReuseIdentifier: ProductTableViewCell.cellIdentifier)
     }
     
     // MARK: - UITableViewDatasource
@@ -36,7 +35,7 @@ class ProductsListDatasourceAndDelegates: NSObject, UITableViewDataSource, UITab
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        guard let cell = tableView.dequeueReusableCell(withIdentifier: "ProductCell") as? ProductTableViewCell else {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: ProductTableViewCell.cellIdentifier) as? ProductTableViewCell else {
             return UITableViewCell()
         }
         

@@ -20,4 +20,13 @@ class StoryboardUtils: NSObject {
         productListVC.searchKeyword = searchKeyword
         return productListVC
     }
+    
+    static func getProductDetailVC(product: Product?) -> ProductDetailViewController {
+        guard let productdetailVC = storyboard.instantiateViewController(withIdentifier: "ProductDetail") as? ProductDetailViewController else {
+            return ProductDetailViewController()
+        }
+        
+        productdetailVC.productDetail = product
+        return productdetailVC
+    }
 }

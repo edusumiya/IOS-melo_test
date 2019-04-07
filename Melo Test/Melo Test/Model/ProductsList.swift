@@ -18,37 +18,48 @@ struct ProductsList: Codable {
     
     enum CodingKeys: String, CodingKey {
         case siteID = "site_id"
-        case query, paging, results
+        case query
+        case paging
+        case results
         case sort
         case filters
     }
 }
 
 struct Sort: Codable {
-    let id, name: String?
+    let id: String?
+    let name: String?
 }
 
 struct Filter: Codable {
-    let id, name: String?
+    let id: String?
+    let name: String?
     let type: String?
     let values: [FilterValue]?
 }
 
 struct FilterValue: Codable {
-    let id, name: String?
+    let id: String?
+    let name: String?
     let pathFromRoot: [Sort]?
     
     enum CodingKeys: String, CodingKey {
-        case id, name
+        case id
+        case name
         case pathFromRoot = "path_from_root"
     }
 }
 
 struct Paging: Codable {
-    let total, offset, limit, primaryResults: Int?
+    let total: Int?
+    let offset: Int?
+    let limit: Int?
+    let primaryResults: Int?
     
     enum CodingKeys: String, CodingKey {
-        case total, offset, limit
+        case total
+        case offset
+        case limit
         case primaryResults = "primary_results"
     }
 }
