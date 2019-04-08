@@ -12,6 +12,14 @@ import UIKit
 class StoryboardUtils: NSObject {
     static let storyboard = UIStoryboard(name: "Main", bundle: nil)
     
+    static func getProductSearchVC() -> ProductSearchViewController {
+        guard let productSearchVC = storyboard.instantiateViewController(withIdentifier: "ProductSearch") as? ProductSearchViewController else {
+            return ProductSearchViewController()
+        }
+
+        return productSearchVC
+    }
+    
     static func getProductListVC(searchKeyword: String?) -> ProductListViewController {
         guard let productListVC = storyboard.instantiateViewController(withIdentifier: "ProductList") as? ProductListViewController else {
             return ProductListViewController()
@@ -28,5 +36,13 @@ class StoryboardUtils: NSObject {
         
         productdetailVC.productDetail = product
         return productdetailVC
+    }
+    
+    static func getErrorVC() -> ErrorServiceViewController {
+        guard let errorVC = storyboard.instantiateViewController(withIdentifier: "ProductError") as? ErrorServiceViewController else {
+            return ErrorServiceViewController()
+        }
+        
+        return errorVC
     }
 }

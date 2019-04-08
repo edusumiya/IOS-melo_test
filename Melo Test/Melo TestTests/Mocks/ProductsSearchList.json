@@ -1,0 +1,4663 @@
+{
+    "site_id": "MLB",
+    "query": "chouriço",
+    "paging": {
+        "total": 93,
+        "offset": 0,
+        "limit": 50,
+        "primary_results": 65
+    },
+    "results": [
+        {
+            "id": "MLB949480738",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol (kg)",
+            "seller": {
+                "id": 262928583,
+                "power_seller_status": "silver",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 199.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-08T13:11:59.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-949480738-chourico-espanhol-kg-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/786719-MLB26520249616_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 16.65,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947378733",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 160407699,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2037-12-02T16:52:35.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947378733-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/714591-MLB26496595202_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.57,
+                "rate": 14.69,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947382239",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 160407699,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 45.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2037-12-02T16:53:09.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947382239-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/872666-MLB26496598022_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 8.51,
+                "rate": 11.01,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB963491841",
+            "site_id": "MLB",
+            "title": "Chouriço (linguiça Portuguesa) ",
+            "seller": {
+                "id": 80050101,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 25,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 5,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2038-01-14T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-963491841-chourico-linguica-portuguesa-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/981398-MLB26660039758_012018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 5,
+                "amount": 5.47,
+                "rate": 9.44,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-RJ",
+                "state_name": "Rio de Janeiro",
+                "city_id": "BR-RJ-19",
+                "city_name": "Teresópolis"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "not_specified",
+                "tags": [
+                    "me2_available"
+                ],
+                "logistic_type": "not_specified",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-RJ",
+                    "name": "Rio de Janeiro"
+                },
+                "city": {
+                    "id": "BR-RJ-19",
+                    "name": "Teresópolis"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": null,
+                    "value_name": "Defumados Transmontanos",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "BRAND",
+                    "name": "Marca"
+                },
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo"
+                },
+                {
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "Chouriço",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment"
+            ]
+        },
+        {
+            "id": "MLB1011092972",
+            "site_id": "MLB",
+            "title": "Chouriço Portugues - Tradicional / Mouro - Kg",
+            "seller": {
+                "id": 257551312,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 70,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-04-06T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1011092972-chourico-portugues-tradicional-mouro-kg-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/744984-MLB27170481530_042018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.83,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-BA",
+                "state_name": "Bahia",
+                "city_id": "TUxCQ1ZBTDg0ZjRk",
+                "city_name": "Valença"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-BA",
+                    "name": "Bahia"
+                },
+                "city": {
+                    "id": "TUxCQ1ZBTDg0ZjRk",
+                    "name": "Valença"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1572,
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": null,
+                    "value_name": "Fumeiro do Portuga",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros"
+                },
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "dragged_bids_and_visits",
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB989177535",
+            "site_id": "MLB",
+            "title": "Tripa De Colágeno Para Salame Chouriço - Embutidos",
+            "seller": {
+                "id": 4223888,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 24.99,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 3,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-03-02T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-989177535-tripa-de-colageno-para-salame-chourico-embutidos-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/713586-MLB29065422000_122018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 4,
+                "amount": 6.25,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-25",
+                "city_name": "São Carlos"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-25",
+                    "name": "São Carlos"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Marca",
+                    "value_id": null,
+                    "value_name": "Importada",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 2187367636293270,
+                    "id": "BRAND"
+                },
+                {
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "source": 2187367636293270,
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "Tripa De Colágeno",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB193632",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "brand_verified",
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB952547940",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 189540847,
+                "power_seller_status": "silver",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-16T13:03:13.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-952547940-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/758767-MLB26552348858_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.73,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB952553600",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 189540847,
+                "power_seller_status": "silver",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-16T13:01:33.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-952553600-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/632521-MLB26552343627_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.73,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB952553975",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 189540847,
+                "power_seller_status": "silver",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 73.58,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-16T13:03:50.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-952553975-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/714199-MLB26552351290_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.13,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1117778160",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 362987280,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 73.58,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-10-09T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1117778160-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/876356-MLB28375171291_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.13,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1117778255",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 362987280,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-10-09T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1117778255-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/730906-MLB28375174831_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.73,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1117803123",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 362987280,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 45.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-10-09T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1117803123-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/931017-MLB28375625318_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7.66,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947378330",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 160407699,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2037-12-02T16:50:56.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947378330-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/992573-MLB26496586992_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.57,
+                "rate": 14.69,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947378841",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 160407699,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 73.58,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2037-12-02T16:53:12.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947378841-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/709777-MLB26496598050_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 7.03,
+                "rate": 14.69,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1174748279",
+            "site_id": "MLB",
+            "title": "Kit De 12 Pares Tenis Feminino Mizzoury Revenda Atacado",
+            "seller": {
+                "id": 377270219,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 270,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2039-01-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1174748279-kit-de-12-pares-tenis-feminino-mizzoury-revenda-atacado-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/817619-MLB29323561167_022019-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 22.5,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-MG",
+                "state_name": "Minas Gerais",
+                "city_id": "TUxCQ0FSQWMyYTE2",
+                "city_name": "Araújos"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-MG",
+                    "name": "Minas Gerais"
+                },
+                "city": {
+                    "id": "TUxCQ0FSQWMyYTE2",
+                    "name": "Araújos"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": null,
+                    "value_name": "Mizzoury",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "ITEM_CONDITION"
+                },
+                {
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "Casual Flex",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB7352",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947721644",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 234416793,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:28:36.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947721644-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/653473-MLB26500147109_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.73,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947719178",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 234416793,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 45.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:29:02.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947719178-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/885184-MLB26500150281_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7.66,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950344680",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 290057595,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.75,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:25:27.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950344680-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/912368-MLB26529307041_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950344923",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 290057595,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 69.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:27:24.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950344923-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/740228-MLB26529312578_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.83,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950343239",
+            "site_id": "MLB",
+            "title": "Chouriço (kg)",
+            "seller": {
+                "id": 290057595,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 219.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:26:14.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950343239-chourico-kg-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/661955-MLB26529306398_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 18.32,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947718423",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 138328127,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 73.58,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:28:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947718423-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/686413-MLB26500141312_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.13,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947711622",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 138328127,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 65.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:26:09.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947711622-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/746812-MLB26500123702_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.48,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112132794",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 51.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-28T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112132794-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/877808-MLB28291450821_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 10,
+                "amount": 5.2,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112284096",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 62.79,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112284096-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/614677-MLB28293921983_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.23,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112310770",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 62.79,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112310770-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/740802-MLB28294452099_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.23,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112301925",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 41.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112301925-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/606511-MLB28294187411_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947718383",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 138328127,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 45.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:27:57.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947718383-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/726734-MLB26500140266_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7.66,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112708743",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 276518812,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 70.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112708743-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/964675-MLB28298890074_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.9,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112820747",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 276518812,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 45.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112820747-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/916318-MLB28299804389_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7.66,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112078644",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 70.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-28T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112078644-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/911610-MLB28290766203_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.9,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112842158",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 276518812,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112842158-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/668031-MLB28300083937_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112167593",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-28T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112167593-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/642540-MLB28291885804_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1137944077",
+            "site_id": "MLB",
+            "title": "Chouriço",
+            "seller": {
+                "id": 200625448,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 32.94,
+            "currency_id": "BRL",
+            "available_quantity": 250,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-11-08T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1137944077-chourico-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/994454-MLB28682678624_112018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 5.49,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me1",
+                "tags": [],
+                "logistic_type": "default",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1227",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112284011",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 67.18,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112284011-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/929550-MLB28293920427_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.6,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1062977209",
+            "site_id": "MLB",
+            "title": "Compacto Luano , Melô Do  Chorisso",
+            "seller": {
+                "id": 26933563,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 25,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2038-07-02T21:50:13.000Z",
+            "condition": "used",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1062977209-compacto-luano-mel-do-chorisso-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/865693-MLB27709066428_072018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 5,
+                "amount": 5.47,
+                "rate": 9.44,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-RS",
+                "state_name": "Rio Grande do Sul",
+                "city_id": "TUxCQ1BPUjgwZTJl",
+                "city_name": "Porto Alegre"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-RS",
+                    "name": "Rio Grande do Sul"
+                },
+                "city": {
+                    "id": "TUxCQ1BPUjgwZTJl",
+                    "name": "Porto Alegre"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": null,
+                    "value_name": "lança",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "BRAND",
+                    "name": "Marca"
+                },
+                {
+                    "source": 1572,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros"
+                },
+                {
+                    "attribute_group_name": "Outros",
+                    "source": 1572,
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "7 polegadas",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLB8241",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950344706",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 289373493,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 64.8,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:25:38.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950344706-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/768524-MLB26529306655_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.4,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 2874726628407061,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950339817",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 289373493,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 64.8,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:27:04.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950339817-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/704230-MLB26529309884_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.4,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 2874726628407061,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950343486",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 289373493,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 44.98,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:27:34.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950343486-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/665241-MLB26529310999_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 7.5,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 2874726628407061,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112704735",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 276518812,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 69.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112704735-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/757693-MLB28298879658_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.83,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947712612",
+            "site_id": "MLB",
+            "title": "Chouriço (kg)",
+            "seller": {
+                "id": 257043846,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 219.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:27:15.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947712612-chourico-kg-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/673029-MLB26500133770_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 18.32,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947718660",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 257043846,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.75,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:28:20.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947718660-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s1-p.mlstatic.com/680183-MLB26500145174_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947711973",
+            "site_id": "MLB",
+            "title": "Chouriço Picante Extra Primor (200gr)",
+            "seller": {
+                "id": 257043846,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.75,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:26:30.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947711973-chourico-picante-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/774274-MLB26500126999_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947718289",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 257043846,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 71.75,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:27:50.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947718289-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/729316-MLB26500141547_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.98,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947718617",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 257043846,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 39.98,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:28:17.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947718617-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/979484-MLB26500145554_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 6,
+                "amount": 6.66,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950343501",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 289373493,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.98,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:27:37.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950343501-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/908941-MLB26529310487_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.75,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947722019",
+            "site_id": "MLB",
+            "title": "Chouriço Espanhol Casaponsa (220g)",
+            "seller": {
+                "id": 234416793,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 73.58,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:29:06.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947722019-chourico-espanhol-casaponsa-220g-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/734444-MLB26500149843_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6.13,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112757037",
+            "site_id": "MLB",
+            "title": "Chouriço (kg)",
+            "seller": {
+                "id": 276518812,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 219.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112757037-chourico-kg-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/670826-MLB28299242928_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 18.32,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB947722081",
+            "site_id": "MLB",
+            "title": "Chouriço Mouro Primor (200gr)",
+            "seller": {
+                "id": 39864802,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 68.77,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-03T13:29:11.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-947722081-chourico-mouro-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/765249-MLB26500151322_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 5.73,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "source": 1
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB950339841",
+            "site_id": "MLB",
+            "title": "Chouriço Extra Primor (200gr)",
+            "seller": {
+                "id": 290057595,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 51.25,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2037-12-10T12:27:20.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-950339841-chourico-extra-primor-200gr-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/668842-MLB26529311289_122017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 10,
+                "amount": 5.13,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MLB1112288155",
+            "site_id": "MLB",
+            "title": "Chouriço (kg)",
+            "seller": {
+                "id": 359925021,
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 219.8,
+            "currency_id": "BRL",
+            "available_quantity": 50,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2038-09-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-1112288155-chourico-kg-_JM",
+            "thumbnail": "http://mlb-s2-p.mlstatic.com/854353-MLB28293987532_102018-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 18.32,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "São Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "São Paulo"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "São Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "São Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condição do item",
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "attribute_group_name": ""
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1429",
+            "official_store_id": null,
+            "catalog_product_id": null,
+            "reviews": {},
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        }
+    ],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "Mais relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor preço"
+        },
+        {
+            "id": "price_desc",
+            "name": "Maior preço"
+        }
+    ],
+    "filters": [],
+    "available_filters": [
+        {
+            "id": "category",
+            "name": "Categorias",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MLB1574",
+                    "name": "Casa, Móveis e Decoração",
+                    "results": 1
+                },
+                {
+                    "id": "MLB1423",
+                    "name": "Comestíveis",
+                    "results": 81
+                },
+                {
+                    "id": "MLB1196",
+                    "name": "Livros",
+                    "results": 6
+                },
+                {
+                    "id": "MLB1430",
+                    "name": "Calçados, Roupas e Bolsas",
+                    "results": 2
+                },
+                {
+                    "id": "MLB1276",
+                    "name": "Esportes e Fitness",
+                    "results": 2
+                },
+                {
+                    "id": "MLB1168",
+                    "name": "Música",
+                    "results": 2
+                },
+                {
+                    "id": "MLB5672",
+                    "name": "Acessórios para Veículos",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Localização",
+            "type": "text",
+            "values": [
+                {
+                    "id": "TUxCUFNBT085N2E4",
+                    "name": "São Paulo",
+                    "results": 84
+                },
+                {
+                    "id": "TUxCUE1JTlMxNTAyZA",
+                    "name": "Minas Gerais",
+                    "results": 2
+                },
+                {
+                    "id": "TUxCUFBBUkExODBlZA",
+                    "name": "Paraná",
+                    "results": 2
+                },
+                {
+                    "id": "TUxCUFJJT08xODM5Zg",
+                    "name": "Rio de Janeiro",
+                    "results": 2
+                },
+                {
+                    "id": "TUxCUFJJT0xkYzM0",
+                    "name": "Rio Grande do Sul",
+                    "results": 2
+                },
+                {
+                    "id": "TUxCUEJBSEFlYmEx",
+                    "name": "Bahia",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Preço",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-60.0",
+                    "name": "Até R$60",
+                    "results": 27
+                },
+                {
+                    "id": "60.0-70.0",
+                    "name": "R$60 a R$70",
+                    "results": 28
+                },
+                {
+                    "id": "70.0-*",
+                    "name": "Mais de R$70",
+                    "results": 38
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Com MercadoPago",
+                    "results": 93
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pagamento",
+            "type": "text",
+            "values": [
+                {
+                    "id": "no_interest",
+                    "name": "Sem juros",
+                    "results": 75
+                }
+            ]
+        },
+        {
+            "id": "condition",
+            "name": "Condição",
+            "type": "text",
+            "values": [
+                {
+                    "id": "new",
+                    "name": "Novo",
+                    "results": 91
+                },
+                {
+                    "id": "used",
+                    "name": "Usado",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Tipo de envio",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Mercado Envios",
+                    "results": 68
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro MercadoLíderes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Melhores vendedores",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publicações com vídeo",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publicações com vídeo",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publicação com imagens",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Com fotos",
+                    "results": 93
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Custo do frete",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 9
+                }
+            ]
+        }
+    ]
+}

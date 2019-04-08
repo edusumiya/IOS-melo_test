@@ -16,13 +16,22 @@
 		A0737882225A96E500162C58 /* CarouselImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737881225A96E500162C58 /* CarouselImageView.swift */; };
 		A0737885225A989A00162C58 /* UIView+LoadNib.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737884225A989A00162C58 /* UIView+LoadNib.swift */; };
 		A0737889225AA4BE00162C58 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737888225AA4BE00162C58 /* BaseViewController.swift */; };
+		A073788F225AE65B00162C58 /* ProductSearchViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A073788E225AE65B00162C58 /* ProductSearchViewControllerTests.swift */; };
+		A0737892225AED4200162C58 /* ProductMock.json in Resources */ = {isa = PBXBuildFile; fileRef = A0737891225AED4200162C58 /* ProductMock.json */; };
+		A0737895225AED6300162C58 /* MockParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737894225AED6300162C58 /* MockParser.swift */; };
+		A0737897225AEEFA00162C58 /* ProductDetailViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737896225AEEFA00162C58 /* ProductDetailViewControllerTests.swift */; };
+		A0737898225AEF8000162C58 /* ProductMock.json in Resources */ = {isa = PBXBuildFile; fileRef = A0737891225AED4200162C58 /* ProductMock.json */; };
+		A073789A225AF36900162C58 /* ProductListViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0737899225AF36900162C58 /* ProductListViewControllerTests.swift */; };
+		A073789C225AF3D200162C58 /* ProductsSearchList.json in Resources */ = {isa = PBXBuildFile; fileRef = A073789B225AF3D200162C58 /* ProductsSearchList.json */; };
+		A073789D225AF3D600162C58 /* ProductsSearchList.json in Resources */ = {isa = PBXBuildFile; fileRef = A073789B225AF3D200162C58 /* ProductsSearchList.json */; };
+		A07378A3225B0B1100162C58 /* ErrorServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07378A2225B0B1100162C58 /* ErrorServiceViewController.swift */; };
+		A07378A5225B0BD400162C58 /* ErrorServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07378A4225B0BD400162C58 /* ErrorServiceProtocol.swift */; };
 		A092FA19225A63DB00C07C05 /* ProductDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A092FA18225A63DB00C07C05 /* ProductDetailViewController.swift */; };
 		A0C55FF22256344D007E3E1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C55FF12256344D007E3E1E /* AppDelegate.swift */; };
 		A0C55FF42256344D007E3E1E /* ProductListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C55FF32256344D007E3E1E /* ProductListViewController.swift */; };
 		A0C55FF72256344D007E3E1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FF52256344D007E3E1E /* Main.storyboard */; };
 		A0C55FF92256344E007E3E1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FF82256344E007E3E1E /* Assets.xcassets */; };
 		A0C55FFC2256344E007E3E1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C55FFA2256344E007E3E1E /* LaunchScreen.storyboard */; };
-		A0C560072256344E007E3E1E /* Melo_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C560062256344E007E3E1E /* Melo_TestTests.swift */; };
 		A0C560182256383E007E3E1E /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C560172256383E007E3E1E /* Environment.swift */; };
 		A0C5601B22563B21007E3E1E /* ProductsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C5601A22563B21007E3E1E /* ProductsList.swift */; };
 		A0F838F72259405E00F776E6 /* ProductTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F838F62259405E00F776E6 /* ProductTableViewCell.xib */; };
@@ -56,6 +65,16 @@
 		A0737881225A96E500162C58 /* CarouselImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselImageView.swift; sourceTree = "<group>"; };
 		A0737884225A989A00162C58 /* UIView+LoadNib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+LoadNib.swift"; sourceTree = "<group>"; };
 		A0737888225AA4BE00162C58 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		A073788E225AE65B00162C58 /* ProductSearchViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductSearchViewControllerTests.swift; sourceTree = "<group>"; };
+		A0737891225AED4200162C58 /* ProductMock.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ProductMock.json; sourceTree = "<group>"; };
+		A0737894225AED6300162C58 /* MockParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockParser.swift; sourceTree = "<group>"; };
+		A0737896225AEEFA00162C58 /* ProductDetailViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailViewControllerTests.swift; sourceTree = "<group>"; };
+		A0737899225AF36900162C58 /* ProductListViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListViewControllerTests.swift; sourceTree = "<group>"; };
+		A073789B225AF3D200162C58 /* ProductsSearchList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ProductsSearchList.json; sourceTree = "<group>"; };
+		A07378A2225B0B1100162C58 /* ErrorServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorServiceViewController.swift; sourceTree = "<group>"; };
+		A07378A4225B0BD400162C58 /* ErrorServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorServiceProtocol.swift; sourceTree = "<group>"; };
+		A07378A6225B118100162C58 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		A07378A7225B118100162C58 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Main.strings"; sourceTree = "<group>"; };
 		A092FA18225A63DB00C07C05 /* ProductDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailViewController.swift; sourceTree = "<group>"; };
 		A0C55FEE2256344D007E3E1E /* Melo Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Melo Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C55FF12256344D007E3E1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +84,6 @@
 		A0C55FFB2256344E007E3E1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0C55FFD2256344E007E3E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0C560022256344E007E3E1E /* Melo TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Melo TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A0C560062256344E007E3E1E /* Melo_TestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Melo_TestTests.swift; sourceTree = "<group>"; };
 		A0C560082256344E007E3E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0C560172256383E007E3E1E /* Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
 		A0C5601A22563B21007E3E1E /* ProductsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsList.swift; sourceTree = "<group>"; };
@@ -128,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				A03E337B225709CB00CBCA41 /* ProductListProtocol.swift */,
+				A07378A4225B0BD400162C58 /* ErrorServiceProtocol.swift */,
 			);
 			path = Protocols;
 			sourceTree = "<group>";
@@ -157,6 +176,33 @@
 				A0737888225AA4BE00162C58 /* BaseViewController.swift */,
 			);
 			path = Base;
+			sourceTree = "<group>";
+		};
+		A073788C225AE60700162C58 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A0737896225AEEFA00162C58 /* ProductDetailViewControllerTests.swift */,
+				A0737899225AF36900162C58 /* ProductListViewControllerTests.swift */,
+				A073788E225AE65B00162C58 /* ProductSearchViewControllerTests.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		A0737890225AED1900162C58 /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+				A0737891225AED4200162C58 /* ProductMock.json */,
+				A073789B225AF3D200162C58 /* ProductsSearchList.json */,
+			);
+			path = Mocks;
+			sourceTree = "<group>";
+		};
+		A0737893225AED5300162C58 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				A0737894225AED6300162C58 /* MockParser.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 		A0C55FE52256344D007E3E1E = {
@@ -197,8 +243,10 @@
 		A0C560052256344E007E3E1E /* Melo TestTests */ = {
 			isa = PBXGroup;
 			children = (
-				A0C560062256344E007E3E1E /* Melo_TestTests.swift */,
 				A0C560082256344E007E3E1E /* Info.plist */,
+				A0737890225AED1900162C58 /* Mocks */,
+				A0737893225AED5300162C58 /* Utils */,
+				A073788C225AE60700162C58 /* ViewController */,
 			);
 			path = "Melo TestTests";
 			sourceTree = "<group>";
@@ -207,9 +255,10 @@
 			isa = PBXGroup;
 			children = (
 				A0737887225AA4AD00162C58 /* Base */,
+				A092FA18225A63DB00C07C05 /* ProductDetailViewController.swift */,
 				A0C55FF32256344D007E3E1E /* ProductListViewController.swift */,
 				A0F838F8225940BD00F776E6 /* ProductSearchViewController.swift */,
-				A092FA18225A63DB00C07C05 /* ProductDetailViewController.swift */,
+				A07378A2225B0B1100162C58 /* ErrorServiceViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -323,6 +372,7 @@
 				A0C55FFE2256344E007E3E1E /* Sources */,
 				A0C55FFF2256344E007E3E1E /* Frameworks */,
 				A0C560002256344E007E3E1E /* Resources */,
+				01354525C4B29DED8370A372 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -358,7 +408,6 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
 				Base,
 			);
 			mainGroup = A0C55FE52256344D007E3E1E;
@@ -380,6 +429,8 @@
 				A0C55FFC2256344E007E3E1E /* LaunchScreen.storyboard in Resources */,
 				A0737880225A969E00162C58 /* CarouselImageView.xib in Resources */,
 				A0F838F72259405E00F776E6 /* ProductTableViewCell.xib in Resources */,
+				A0737898225AEF8000162C58 /* ProductMock.json in Resources */,
+				A073789D225AF3D600162C58 /* ProductsSearchList.json in Resources */,
 				A0C55FF92256344E007E3E1E /* Assets.xcassets in Resources */,
 				A0C55FF72256344D007E3E1E /* Main.storyboard in Resources */,
 			);
@@ -389,12 +440,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0737892225AED4200162C58 /* ProductMock.json in Resources */,
+				A073789C225AF3D200162C58 /* ProductsSearchList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		01354525C4B29DED8370A372 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Melo TestTests/Pods-Melo TestTests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework",
+				"${BUILT_PRODUCTS_DIR}/OCHamcrest/OCHamcrest.framework",
+				"${BUILT_PRODUCTS_DIR}/OCMockito/OCMockito.framework",
+				"${BUILT_PRODUCTS_DIR}/OCMockitoSwift/OCMockitoSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Nimble.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OCHamcrest.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OCMockito.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OCMockitoSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Melo TestTests/Pods-Melo TestTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		5533B1352291084830437B26 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -480,10 +563,12 @@
 				A0C5601B22563B21007E3E1E /* ProductsList.swift in Sources */,
 				A03E337C225709CB00CBCA41 /* ProductListProtocol.swift in Sources */,
 				A0737889225AA4BE00162C58 /* BaseViewController.swift in Sources */,
+				A07378A5225B0BD400162C58 /* ErrorServiceProtocol.swift in Sources */,
 				A092FA19225A63DB00C07C05 /* ProductDetailViewController.swift in Sources */,
 				A0C55FF22256344D007E3E1E /* AppDelegate.swift in Sources */,
 				A0F838FC225947A600F776E6 /* StoryboardUtils.swift in Sources */,
 				A0737885225A989A00162C58 /* UIView+LoadNib.swift in Sources */,
+				A07378A3225B0B1100162C58 /* ErrorServiceViewController.swift in Sources */,
 				A03E33722256C3A500CBCA41 /* ProductService.swift in Sources */,
 				A0737882225A96E500162C58 /* CarouselImageView.swift in Sources */,
 				A03E3378225708F000CBCA41 /* ProductsListDatasourceAndDelegates.swift in Sources */,
@@ -496,7 +581,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0C560072256344E007E3E1E /* Melo_TestTests.swift in Sources */,
+				A0737895225AED6300162C58 /* MockParser.swift in Sources */,
+				A073788F225AE65B00162C58 /* ProductSearchViewControllerTests.swift in Sources */,
+				A073789A225AF36900162C58 /* ProductListViewControllerTests.swift in Sources */,
+				A0737897225AEEFA00162C58 /* ProductDetailViewControllerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -515,6 +603,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A0C55FF62256344D007E3E1E /* Base */,
+				A07378A7225B118100162C58 /* pt-BR */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -523,6 +612,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A0C55FFB2256344E007E3E1E /* Base */,
+				A07378A6225B118100162C58 /* pt-BR */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -534,6 +624,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -595,6 +686,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";

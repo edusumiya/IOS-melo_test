@@ -3,12 +3,23 @@ PODS:
   - HUD (2.0.1)
   - iCarousel (1.8.3)
   - ImageLoader (0.14.0)
+  - Nimble (7.3.3)
+  - OCHamcrest (7.1.1)
+  - OCMockito (5.0.1):
+    - OCHamcrest (~> 7.0)
+  - OCMockitoSwift (0.4.1):
+    - OCHamcrest (~> 7.0)
+    - OCMockito (~> 5.0.1)
+  - Quick (1.3.4)
 
 DEPENDENCIES:
   - Alamofire
   - HUD
   - iCarousel (~> 1.8)
   - ImageLoader
+  - Nimble
+  - OCMockitoSwift (~> 0.3)
+  - Quick
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -16,13 +27,23 @@ SPEC REPOS:
     - HUD
     - iCarousel
     - ImageLoader
+    - Nimble
+    - OCHamcrest
+    - OCMockito
+    - OCMockitoSwift
+    - Quick
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
   HUD: 08e61fa44e2573dd88407ade83a526b9e95e7284
   iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
   ImageLoader: 56f57e35d6ed26a74183dc2e472133b4b22eb7b9
+  Nimble: 3b434b1e7d0a92603a13550a82880b0d952f518e
+  OCHamcrest: 3506736397451c35d8763ff0a9b13492e544115f
+  OCMockito: 063837a086c058e764fcd23e771089c1759e7197
+  OCMockitoSwift: 8d0fb2c936bfe64a993bf6c3a252bbe73478526c
+  Quick: f4f7f063c524394c73ed93ac70983c609805d481
 
-PODFILE CHECKSUM: cd70a00abcf4914697b8ffd4de67f9bf19c0dda7
+PODFILE CHECKSUM: 8b2df7ed8a8c43514d768015db0fcd7db35f2942
 
 COCOAPODS: 1.6.0

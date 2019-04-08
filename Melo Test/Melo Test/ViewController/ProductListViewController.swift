@@ -8,7 +8,8 @@
 
 import UIKit
 
-class ProductListViewController: BaseViewController, ProductListProtocol {
+class ProductListViewController: BaseViewController, ProductListProtocol, ErrorServiceProtocol {
+    
     // MARK: - Properties
     
     @IBOutlet var tableViewProducts: UITableView!
@@ -20,7 +21,7 @@ class ProductListViewController: BaseViewController, ProductListProtocol {
     var offset: Int = 0
     var limit: Int = 0
     var totalResults: Int = 0
-    fileprivate var productsDatasource: ProductsListDatasourceAndDelegates!
+    var productsDatasource: ProductsListDatasourceAndDelegates!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -54,20 +55,8 @@ class ProductListViewController: BaseViewController, ProductListProtocol {
                         self.tableViewProducts.scrollToRow(at: indexPath, at: .top, animated: true)
                     }
                     
-                    
-                    
-                    self.pagingLabel.text = "\(self.offset) itens de \(searchResults.paging?.primaryResults ?? 0)"
-                    
-                    if self.offset == 0 {
-                        self.previousButton.isEnabled = false
-                        self.nextButton.isEnabled = true
-                    } else if self.offset >= (self.totalResults) {
-                        self.previousButton.isEnabled = true
-                        self.nextButton.isEnabled = false
-                    } else {
-                        self.previousButton.isEnabled = true
-                        self.nextButton.isEnabled = true
-                    }
+                    self.pagingLabel.text = "\(self.offset) de \(searchResults.paging?.primaryResults ?? 0)"
+                    self.configureButtons()
                     
                     if let searchTotal = searchResults.paging?.total, let primaryResults = searchResults.paging?.primaryResults {
                         if searchTotal >= primaryResults {
@@ -76,12 +65,27 @@ class ProductListViewController: BaseViewController, ProductListProtocol {
                     }
                     
                     self.limit = searchResults.paging?.limit ?? 0
-                    
                     self.hideProgressHUD()
                 }
             }) { (error) in
-                self.displayErrorMessage(message: error.localizedDescription)
+                self.hideProgressHUD()
+                let errorVC = StoryboardUtils.getErrorVC()
+                errorVC.delegate = self
+                self.present(errorVC, animated: true, completion: nil)
             }
+        }
+    }
+    
+    func configureButtons() {
+        if offset == 0 {
+            previousButton.isEnabled = false
+            nextButton.isEnabled = true
+        } else if self.offset >= (totalResults - limit) {
+            previousButton.isEnabled = true
+            nextButton.isEnabled = false
+        } else {
+            previousButton.isEnabled = true
+            nextButton.isEnabled = true
         }
     }
     
@@ -106,5 +110,10 @@ class ProductListViewController: BaseViewController, ProductListProtocol {
         }, failure: { (error) in
             self.displayErrorMessage(message: error.localizedDescription)
         })
+    }
+    
+    // MARK: - ErrorServiceProtocol
+    func tryAgain() {
+        dataRequest(dataOffset: offset)
     }
 }

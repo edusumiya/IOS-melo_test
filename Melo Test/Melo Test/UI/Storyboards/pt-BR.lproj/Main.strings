@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "O que está procurando?"; ObjectID = "8Vh-VK-GP8"; */
+"8Vh-VK-GP8.text" = "O que está procurando?";
+
+/* Class = "UILabel"; text = "MeLi"; ObjectID = "8iQ-6T-CAQ"; */
+"8iQ-6T-CAQ.text" = "MeLi";
+
+/* Class = "UIButton"; normalTitle = "Ant"; ObjectID = "9uq-qb-0xT"; */
+"9uq-qb-0xT.normalTitle" = "Ant";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HXB-GT-vZw"; */
+"HXB-GT-vZw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KWJ-xy-vHG"; */
+"KWJ-xy-vHG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Não conseguimos trazer seus resultados"; ObjectID = "LJ0-1u-zwI"; */
+"LJ0-1u-zwI.text" = "Não conseguimos trazer seus resultados";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S54-Dm-ui5"; */
+"S54-Dm-ui5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VSh-9l-lSh"; */
+"VSh-9l-lSh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Prox"; ObjectID = "cz8-Su-0u7"; */
+"cz8-Su-0u7.normalTitle" = "Prox";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d1R-BB-uYU"; */
+"d1R-BB-uYU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qmA-dx-gxF"; */
+"qmA-dx-gxF.text" = "Label";
+
+/* Class = "UISearchBar"; placeholder = "Digite o nome do produto"; ObjectID = "w0Z-bI-Dgf"; */
+"w0Z-bI-Dgf.placeholder" = "Digite o nome do produto";
+
+/* Class = "UIButton"; normalTitle = "Pesquisar"; ObjectID = "w4b-so-1Qc"; */
+"w4b-so-1Qc.normalTitle" = "Pesquisar";
+
+/* Class = "UIButton"; normalTitle = "Tentar Novamente"; ObjectID = "xpG-cE-Osx"; */
+"xpG-cE-Osx.normalTitle" = "Tentar Novamente";
