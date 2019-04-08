@@ -154,16 +154,10 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCHamcrest/OCHamcrest.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCMockito/OCMockito.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCMockitoSwift/OCMockitoSwift.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Quick/Quick.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCHamcrest/OCHamcrest.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCMockito/OCMockito.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/OCMockitoSwift/OCMockitoSwift.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Quick/Quick.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then

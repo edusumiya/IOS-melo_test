@@ -9,13 +9,12 @@ target 'Melo Test' do
   pod 'Alamofire'
   pod 'ImageLoader'
   pod 'iCarousel', '~> 1.8'
-  pod 'HUD'
+  pod 'PKHUD'
   target 'Melo TestTests' do
     inherit! :search_paths
     # Pods for testing
     pod 'Quick'
     pod 'Nimble'
-    pod 'OCMockitoSwift', '~> 0.3'
   end
   
   # if use Xcode9(Swift4.0)

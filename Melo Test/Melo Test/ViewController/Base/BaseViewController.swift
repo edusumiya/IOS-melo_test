@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-import HUD
+import PKHUD
 
 class BaseViewController: UIViewController {
     
@@ -17,14 +17,17 @@ class BaseViewController: UIViewController {
     }
     
     func showProgressHUD() {
-        HUD.show(.loading, text: "Carregando")
+        PKHUD.sharedHUD.contentView = PKHUDProgressView()
+        PKHUD.sharedHUD.show()
     }
     
     func hideProgressHUD() {
-        HUD.dismiss()
+        PKHUD.sharedHUD.hide()
     }
     
     func displayErrorMessage(message: String) {
-        HUD.show(.error, text: message, time: 2000, completion: nil)
+        PKHUD.sharedHUD.contentView = PKHUDTextView(text: message)
+        PKHUD.sharedHUD.show()
+        PKHUD.sharedHUD.hide(afterDelay: 2.0)
     }
 }
